@@ -33,6 +33,5 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
 
 ## Versiones:
 <pre>
-    - v1.0.0.0 
-            Versión Inicial
+    - v1.0.0.0 Versión Inicial
 </pre>
