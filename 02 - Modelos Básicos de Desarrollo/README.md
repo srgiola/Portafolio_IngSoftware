@@ -4,13 +4,11 @@ Para adentrarnos a los modelos básicos de software necesitamos conocer las acti
 
 Las actividades estructurales que debemos de tomar en cuenta son:
 
-<pre>
-    1 - Comunicación</br>
-    2 - Planeación</br>
-    3 - Modelado</br>
-    4 - Construcción</br>
-    5 - Despliegue</br>
-</pre>
+    1 - Comunicación
+    2 - Planeación
+    3 - Modelado
+    4 - Construcción
+    5 - Despliegue
 
 <p align="center">
 <img
