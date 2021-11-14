@@ -1,8 +1,9 @@
-<pre>                                                <img
+<p align="center">
+    <img
     src="https://d25nlln9isiu5y.cloudfront.net/wp-content/uploads/2018/09/url.jpg"
     width="100px"
     />
-</pre>
+</p>
 
 <div style="font-family: Arial, Helvetica; font-size: 20px font-weight: bold;">
         Universidad Rafel Landívar </br>
