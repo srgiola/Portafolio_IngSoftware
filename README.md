@@ -11,7 +11,7 @@
         Carne 1044418
 </div>
 
-# Portafolio Ingeniería de Software
+# Portafolio Ingeniería de Software v1.0.0
 
 El siguiente Portafolio es una recopilación de distintos retos, casos, examenes o proyecto. Cada uno de los mencionados anteriormente representa a un artefacto, y para el portafolio se ha escogido el artefacto que yo Sergio Lara considero como el mas significativo por cada bloque (tema principal) visto en clase de Ingenieria de Software (IS).
 
@@ -27,4 +27,11 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
 <pre>
     - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
     target=”_blank”>Introducción a la Ingeniería de Software</a>
+</pre>
+
+
+## Versiones:
+<pre>
+    - v1.0.0.0 Versión Inicial
+                    Versión sin cambios.
 </pre>
