@@ -1,9 +1,15 @@
 # Portafolio Ingeniería de Software
 
-<img src="https://scontent.faqb1-1.fna.fbcdn.net/v/t1.18169-9/28056765_1800472163317267_2852255934530596927_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vYhhxjw6tDcAX_qyT6V&_nc_ht=scontent.faqb1-1.fna&oh=e88e3ca2922b9e01283d25cc4528e55e&oe=61B6B951"
-  width="250" 
-  height="250"
-  style="float: left;"
-/>
+<pre>                                                         <img
+    src="https://d25nlln9isiu5y.cloudfront.net/wp-content/uploads/2018/09/url.jpg"
+    width="100px"
+    />
+</pre>
 
-<h1>Hola</h1>
+<div style="font-family: Arial, Helvetica, sans-serif; float: left; font-size: 20px;">
+        Universidad Rafel Landívar </br>
+        Factultad de Ingeniería Ingenieria en Informatica y Sistemas </br>
+        Sergio Daniel Lara Vásquez </br>
+        Carne 1044418
+</div>
+    
