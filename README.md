@@ -27,10 +27,17 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
 ## Puede dirigirse a los distintos temas del portafolio a travez de los siguientes enlaces:
 <pre>
     - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Introducción a la Ingeniería de Software</a>
+    target=”_blank”>Bloque 01 - "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo"</a>
     
     - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Modelos Básicos de Desarrollo</a>
+    target=”_blank”>Bloque 02 - </a>
+    
+    - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Bloque 03 - </a>
+    
+    - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Bloque 04 - </a>
+    
 </pre>
 
 
@@ -39,4 +46,5 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
     - v1.0.0 Versión Inicial
         /v1.1.0 Se ha agregado el bloque "Modelos Básicos de Desarrollo"
             /v1.1.1 Se ha corregido un error de edición en el README.md
+    - v2.0.0 Cambios en la estructura de las carpetas
 </pre>
