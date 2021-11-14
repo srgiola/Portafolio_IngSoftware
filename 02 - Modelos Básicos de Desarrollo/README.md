@@ -3,21 +3,14 @@
 Para adentrarnos a los modelos básicos de software necesitamos conocer las actividades que se realizan durante la construcción de este. Todo software lleva un ciclo básico de vida el cual inicia desde la concepción de la idea, hasta la resolución de una problemática. </br>
 
 Las actividades estructurales que debemos de tomar en cuenta son:
-•	Comunicación
-•	Planeación
-•	Modelado
-•	Construcción
-•	Despliegue
 
-**Estas actividades tienen un orden el cual es:**
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+<pre>
+    1 - Comunicación</br>
+    2 - Planeación</br>
+    3 - Modelado</br>
+    4 - Construcción</br>
+    5 - Despliegue</br>
+</pre>
 
 <p align="center">
 <img
