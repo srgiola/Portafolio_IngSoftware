@@ -6,7 +6,7 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 
 <p align="center">
 <img
-    src="https://c0.klipartz.com/pngpicture/365/996/gratis-png-iconos-de-la-computadora-integracion-del-sistema-gestion-de-la-relacion-con-el-cliente.png"
+    src="https://cdn-icons-png.flaticon.com/512/1541/1541467.png"
     width="100px"
 />
  </p>
