@@ -25,5 +25,6 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
 
 ## Puede dirigirse a los distintos temas del portafolio a travez de los siguientes enlaces:
 <pre>
-    - <a href=”https://www.nombredelaweb.com/” target=”_blank”>Introducción a la Ingeniería de Software</a>
+    - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Introducción a la Ingeniería de Software</a>
 </pre>
