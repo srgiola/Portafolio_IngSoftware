@@ -28,10 +28,14 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
 <pre>
     - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
     target=”_blank”>Introducción a la Ingeniería de Software</a>
+    
+    - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Modelos Básicos de Desarrollo</a>
 </pre>
 
 
 ## Versiones:
 <pre>
-    - v1.0.0.0 Versión Inicial
+    - v1.0.0 Versión Inicial
+        /v1.1.0 Se ha agregado el bloque "Modelos Básicos de Desarrollo"
 </pre>
