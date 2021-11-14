@@ -1,4 +1,4 @@
-<pre>                                                           <img
+<pre>                                                <img
     src="https://d25nlln9isiu5y.cloudfront.net/wp-content/uploads/2018/09/url.jpg"
     width="100px"
     />
