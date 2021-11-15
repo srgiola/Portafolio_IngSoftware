@@ -1,12 +1,10 @@
-# Bloque 03
+# Bloque 05
 
-Este bloque esta conformado por los temas de "Estrategias de Pruebas" y "Técnicas de Pruebas".
+Este bloque esta conformado por el tema "Gestión del Cambio y Prácticas DevOps".
 
-Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
+Para tener mayor conocimiento sobre esto tema se puede ingresar a el a traves del siguiente enlace dentro de este repositorio.
 - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Estrategias de Pruebas</a>
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Técnicas de Pruebas</a>
+    target=”_blank”>Gestión del Cambio y Prácticas DevOps</a>
 
 <p align="center">
 <img

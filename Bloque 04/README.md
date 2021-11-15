@@ -1,12 +1,12 @@
-# Bloque 03
+# Bloque 04
 
-Este bloque esta conformado por los temas de "Estrategias de Pruebas" y "Técnicas de Pruebas".
+Este bloque esta conformado por los temas de "Marco Conceptual y Métricas de Producto" y "Métricas de Proceso, Medidas e Indicadores".
 
 Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
 - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Estrategias de Pruebas</a>
+    target=”_blank”>Marco Conceptual y Métricas de Producto</a>
 - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Técnicas de Pruebas</a>
+    target=”_blank”>Métricas de Proceso, Medidas e Indicadores</a>
 
 <p align="center">
 <img
