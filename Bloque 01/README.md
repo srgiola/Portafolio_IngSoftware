@@ -17,6 +17,20 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 
 El artefacto seleccionado es la actividad en grupos **“Proyecto: Modelos de proceso de TDR Juegos Digitales”**. Este artefacto fue el ideal ya que me poner en practica las actividades estructurales y como tomar en cuenta estas para la realizacíón de una propuesta de software </br>
 
+
+<p align="left">
+<img
+    src="https://www.docirs.cl/images/grafo_equivalente_logo_estructurado.jpg"
+    width="50px"
+/>
+
+**Red Semantica de Conceptos**
+<p align="center">
+<img
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2001/Red%20Semantica.png"
+    width="500px"
+/>
+
 <p align="left">
 <img
     src="https://blog.pro-optim.com/wp-content/uploads/noun_continuous-improvement_1326963.png"
