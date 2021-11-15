@@ -3,9 +3,9 @@
 Este bloque esta conformado por los temas de "Estrategias de Pruebas" y "Técnicas de Pruebas".
 
 Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2003/Estrategias%20de%20Pruebas" 
     target=”_blank”>Estrategias de Pruebas</a>
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2003/T%C3%A9cnicas%20de%20Pruebas" 
     target=”_blank”>Técnicas de Pruebas</a>
 
 <p align="center">
@@ -26,7 +26,7 @@ El artefacto selecionado de las actividades del bloque es **“Laboratorio de Co
 **Red Semantica de Conceptos**
 <p align="center">
 <img
-    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2002/Red%20Semantica.png"
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2003/Red%20Semantica.png"
     width="500px"
 />
 
