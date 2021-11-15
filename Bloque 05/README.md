@@ -13,7 +13,7 @@ Para tener mayor conocimiento sobre esto tema se puede ingresar a el a traves de
 />
  </p>
 
-Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Estos artefactos son los ideales para este bloque ya que unicamente teorico y los iRAT son una buena manera de conocer que tanto sabemos del tema asi como luego comparar nuestros conocimientos con nuestros compañeros en el gRAT </br>
+El artefacto seleccionado es **“Caso ACS”**. En este artefacto conoci las metodologias CI/CD y como es que se manejan estas a lo largo del ciclo de vida del software. </br>
 
 <p align="left">
 <img
@@ -21,7 +21,7 @@ Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Esto
     width="50px"
 />
 
-Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es que se realizo dos veces durante la misma semana, mientras que unicamente podría haber sucedido una vez.
+Unicamente mejoraria acerca de la parte de los diagramas, si se hubiera podido validar si conociamos lo solicitado. Pero a pesar de eso se dio una retroalimentación oportuna y no hubo inconveniente.
  
  </p>
  <p align="left">
@@ -31,4 +31,4 @@ Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es q
 />
  </p>
  
-Estos conocimientos fueron necesarios para tener una claridad de como se trabaja con modelos prescriptivos y poder compara como es que la teoria la aplicaba en un anterior empleo y ver que errores tenia ya que no conocia el correcto proceso.
+Este ejercicio fue el idea ya que me mostro como son las buenas practicas y metodologia DevOps asi como los ACS que son actividades que nunca habia tomado en cuenta de la forma correcta para la realización de software.
