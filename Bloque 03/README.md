@@ -10,7 +10,7 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 
 <p align="center">
 <img
-    src="https://cdn.lynda.com/course/606079/606079-636402166307474915-16x9.jpg"
+    src="https://media.istockphoto.com/vectors/tiny-people-testing-quality-assurance-in-software-vector-id1273058761?k=20&m=1273058761&s=612x612&w=0&h=h3eF4kh8b0FGTQGR-HEkBKV6EipY3DEnWBrQuJJ2afE="
     width="400px"
 />
  </p>
