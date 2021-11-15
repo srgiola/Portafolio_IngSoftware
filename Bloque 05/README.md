@@ -8,7 +8,7 @@ Para tener mayor conocimiento sobre esto tema se puede ingresar a el a traves de
 
 <p align="center">
 <img
-    src="https://media.istockphoto.com/vectors/agile-vs-waterfall-methodology-for-software-development-life-cycle-vector-id1336228205?k=20&m=1336228205&s=612x612&w=0&h=uwNKYNwohuCsxsHijVPMMOjUGPPntJydghI5Kscs-Eo="
+    src="https://rgprincipal.com/es/wp-content/uploads/2019/07/DevOps-FAQ.jpg"
     width="400px"
 />
  </p>
