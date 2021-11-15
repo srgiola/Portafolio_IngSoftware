@@ -3,12 +3,15 @@
 Este bloque esta conformado por los temas de "Modelos Prescriptivos" y "Modelos Ágiles".
 
 Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
-
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Modelos Prescriptivos</a>
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Modelos Ágiles</a>
 
 <p align="center">
 <img
-    src="https://miro.medium.com/max/1000/0*IzcrwKc3tXqje4r-.png"
-    width="100px"
+    src="https://media.istockphoto.com/vectors/agile-vs-waterfall-methodology-for-software-development-life-cycle-vector-id1336228205?k=20&m=1336228205&s=612x612&w=0&h=uwNKYNwohuCsxsHijVPMMOjUGPPntJydghI5Kscs-Eo="
+    width="400px"
 />
  </p>
 
