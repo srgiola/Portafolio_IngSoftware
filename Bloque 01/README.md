@@ -3,9 +3,9 @@
 Este bloque esta conformado por los temas de "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo".
 
 Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2001/Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
     target=”_blank”>Introducción a la Ingeniería de Software</a>
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2001/Modelos%20B%C3%A1sicos%20de%20Desarrollo" 
     target=”_blank”>Modelos Básicos de Desarrollo</a>
 
 <p align="center">
@@ -27,7 +27,7 @@ El artefacto seleccionado es la actividad en grupos **“Proyecto: Modelos de pr
 **Red Semantica de Conceptos**
 <p align="center">
 <img
-    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2001/Red%20Semantica.png"
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2001/Red%20Semantica.png"
     width="500px"
 />
 
