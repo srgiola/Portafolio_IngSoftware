@@ -1,22 +1,8 @@
-# Modelos Básicos de Desarrollo
+# Bloque 02
 
-Los modelos prescriptivos son aquellos modelos de proceso mas antiguos ya que fueron los primeros en ser propuestos para ordenar el caos en el desarrollo de software incluyendo conceptos como las actividades estructurales. </br>
+Este bloque esta conformado por los temas de "Modelos Prescriptivos" y "Modelos Ágiles".
 
-Estos modelos construyeron un marco de trabajo razonablemente eficaz, pero estos aun generaban caos durante el proceso. </br>
-
-Los modelos más aceptados fueron: 
-
-•	Cascada
-•	Incremental
-•	Evolutivo
-•	Concurrente
-
-Luego de la evolución de los procesos prescriptivos surgieron los modelos de proceso especializado los cuales buscan tomar uno de los modelos anteriores y especializarlo en una de las ramas de Ingeniería de Software, de estos surgieron:
-
-•	Desarrollo basado en componentes
-•	Métodos formales
-
-Así mismo el desarrollo de software se puede definir si se realiza en un Proceso Personal y/o de equipo.
+Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
 
 
 <p align="center">
