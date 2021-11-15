@@ -39,4 +39,6 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
     - v1.0.0 Versión Inicial
         /v1.1.0 Se ha agregado el bloque "Modelos Básicos de Desarrollo"
             /v1.1.1 Se ha corregido un error de edición en el README.md
+    - v2.0.0 Se ha restructurado la arquitectura de las carpetas y sus temas
+            /v2.0.1 Se ha corregido el texto de multiples README.md para el bloque 1
 </pre>
