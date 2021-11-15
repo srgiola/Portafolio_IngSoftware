@@ -27,7 +27,7 @@ El artefacto seleccionado es la actividad **“Reto de modelación y simulación
 <p align="center">
 <img
     src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2002/Red%20Semantica.png"
-    width="500px"
+    width="800px"
 />
 
 <p align="left">
