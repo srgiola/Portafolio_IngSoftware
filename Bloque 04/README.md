@@ -15,7 +15,7 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 />
  </p>
 
-Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Estos artefactos son los ideales para este bloque ya que unicamente teorico y los iRAT son una buena manera de conocer que tanto sabemos del tema asi como luego comparar nuestros conocimientos con nuestros compañeros en el gRAT </br>
+El artefacto seleccionado es la actividad **“Resultados de las validaciones de los usuarios”** Este artefacto fuimos capaces de realizar las pruebas Beta con usuarios reales en un ambiente real. Esto nos ayudo mucho a conocer como es en la vida real y a la vez tener una introducción a este mundo de como actuan usuarios finales de un producto de software que son no tecnicos. </br>
 
 <p align="left">
 <img
@@ -23,7 +23,7 @@ Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Esto
     width="50px"
 />
 
-Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es que se realizo dos veces durante la misma semana, mientras que unicamente podría haber sucedido una vez.
+Nada, creo que la actividad estubo muy completa y los conceptos previos fueron explicados a cabalidad.
  
  </p>
  <p align="left">
@@ -33,4 +33,4 @@ Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es q
 />
  </p>
  
-Estos conocimientos fueron necesarios para tener una claridad de como se trabaja con modelos prescriptivos y poder compara como es que la teoria la aplicaba en un anterior empleo y ver que errores tenia ya que no conocia el correcto proceso.
+Gracias a este ejercicio fue que me di cuenta que todo software que debe creace con calidad, a tiempo y economico (dentro lo que cabe) y pude observar como esto se ve reflejado cuando entra en contactos con los usuarios.

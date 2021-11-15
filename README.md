@@ -50,5 +50,6 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
             /v1.1.1 Se ha corregido un error de edición en el README.md
     - v2.0.0 Se ha restructurado la arquitectura de las carpetas y sus temas.
             /v2.0.1 Se ha corregido el texto de multiples README.md para el bloque 1.
-        /v2.1.0 Se han actualizado los bloques 02y 03 con información teorica sobre los temas de cada uno.
+        /v2.1.0 Se han actualizado los bloques 02 y 03 con información teorica sobre los temas de cada uno.
+        /v2.2.0 Se ha agregado los bloques 03 y 04 con información teorica y README asociados a estos temas.
 </pre>
