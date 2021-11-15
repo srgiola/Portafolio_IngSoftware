@@ -3,9 +3,9 @@
 Este bloque esta conformado por los temas de "Marco Conceptual y Métricas de Producto" y "Métricas de Proceso, Medidas e Indicadores".
 
 Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2004/Marco%20Conceptual%20y%20M%C3%A9tricas%20de%20Producto" 
     target=”_blank”>Marco Conceptual y Métricas de Producto</a>
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2004/M%C3%A9tricas%20de%20Proceso%2C%20Medidas%20e%20Indicadores" 
     target=”_blank”>Métricas de Proceso, Medidas e Indicadores</a>
 
 <p align="center">
@@ -26,7 +26,7 @@ El artefacto seleccionado es la actividad **“Resultados de las validaciones de
 **Red Semantica de Conceptos**
 <p align="center">
 <img
-    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2002/Red%20Semantica.png"
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2004/Red%20Semantica.png"
     width="500px"
 />
 
