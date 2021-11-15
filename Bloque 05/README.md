@@ -25,7 +25,7 @@ El artefacto seleccionado es **“Caso ACS”**. En este artefacto conoci las me
 <p align="center">
 <img
     src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2005/Red%20Semantica.png"
-    width="500px"
+    width="800px"
 />
 
 <p align="left">
