@@ -10,7 +10,7 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 
 <p align="center">
 <img
-    src="https://media.istockphoto.com/vectors/agile-vs-waterfall-methodology-for-software-development-life-cycle-vector-id1336228205?k=20&m=1336228205&s=612x612&w=0&h=uwNKYNwohuCsxsHijVPMMOjUGPPntJydghI5Kscs-Eo="
+    src="https://www.solucionesc2.com/wp-content/uploads/2014/10/analitica_WEB.jpg"
     width="400px"
 />
  </p>
