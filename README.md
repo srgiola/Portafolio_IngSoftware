@@ -27,10 +27,19 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
 ## Puede dirigirse a los distintos temas del portafolio a travez de los siguientes enlaces:
 <pre>
     - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Introducción a la Ingeniería de Software</a>
+    target=”_blank”>Bloque 01 - "Introducción a la Ingeniería de Software" y "Modelos Básicos de Desarrollo"</a>
     
     - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
-    target=”_blank”>Modelos Básicos de Desarrollo</a>
+    target=”_blank”>Bloque 02 - "Modelos Prescriptivos" y "Modelos Ágiles"</a>
+    
+    - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Bloque 03 - "Estrategias de Pruebas" y "Técnicas de Pruebas"</a>
+    
+    - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Bloque 04 - "Marco Conceptual y Métricas de Producto" y "Métricas de Proceso, Medidas e Indicadores"</a>
+    
+    - <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+    target=”_blank”>Bloque 05 - "Gestión del Cambio y Prácticas DevOps"</a>
 </pre>
 
 
