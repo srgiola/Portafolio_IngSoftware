@@ -3,7 +3,7 @@
 Este bloque esta conformado por el tema "Gestión del Cambio y Prácticas DevOps".
 
 Para tener mayor conocimiento sobre esto tema se puede ingresar a el a traves del siguiente enlace dentro de este repositorio.
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2005/Gesti%C3%B3n%20del%20cambio%20y%20pr%C3%A1cticas%20DevOps" 
     target=”_blank”>Gestión del Cambio y Prácticas DevOps</a>
 
 <p align="center">
@@ -24,7 +24,7 @@ El artefacto seleccionado es **“Caso ACS”**. En este artefacto conoci las me
 **Red Semantica de Conceptos**
 <p align="center">
 <img
-    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2002/Red%20Semantica.png"
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2005/Red%20Semantica.png"
     width="500px"
 />
 
