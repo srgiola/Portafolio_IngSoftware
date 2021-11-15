@@ -27,7 +27,7 @@ El artefacto seleccionado es la actividad **“Resultados de las validaciones de
 <p align="center">
 <img
     src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2004/Red%20Semantica.png"
-    width="500px"
+    width="600px"
 />
 
 <p align="left">
