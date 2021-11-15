@@ -3,9 +3,9 @@
 Este bloque esta conformado por los temas de "Modelos Prescriptivos" y "Modelos Ágiles".
 
 Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a traves de los siguientes enlaces dentro de este repositorio.
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2002/Modelos%20Prescriptivos" 
     target=”_blank”>Modelos Prescriptivos</a>
-- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/01%20-%20Introducci%C3%B3n%20a%20la%20Ingenier%C3%ADa%20de%20Software" 
+- <a href="https://github.com/srgiola/Portafolio_IngSoftware/tree/master/Bloque%2002/Modelos%20%C3%81giles" 
     target=”_blank”>Modelos Ágiles</a>
 
 <p align="center">
@@ -26,7 +26,7 @@ El artefacto seleccionado es la actividad **“Reto de modelación y simulación
 **Red Semantica de Conceptos**
 <p align="center">
 <img
-    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2002/Red%20Semantica.png"
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/master/Bloque%2002/Red%20Semantica.png"
     width="500px"
 />
 
