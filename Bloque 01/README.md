@@ -21,7 +21,7 @@ El artefacto seleccionado es la actividad en grupos **“Proyecto: Modelos de pr
 <p align="left">
 <img
     src="https://www.docirs.cl/images/grafo_equivalente_logo_estructurado.jpg"
-    width="50px"
+    width="75px"
 />
 
 **Red Semantica de Conceptos**

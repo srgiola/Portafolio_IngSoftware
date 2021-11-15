@@ -19,6 +19,19 @@ El artefacto seleccionado es la actividad **“Resultados de las validaciones de
 
 <p align="left">
 <img
+    src="https://www.docirs.cl/images/grafo_equivalente_logo_estructurado.jpg"
+    width="75px"
+/>
+
+**Red Semantica de Conceptos**
+<p align="center">
+<img
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2002/Red%20Semantica.png"
+    width="500px"
+/>
+
+<p align="left">
+<img
     src="https://blog.pro-optim.com/wp-content/uploads/noun_continuous-improvement_1326963.png"
     width="50px"
 />

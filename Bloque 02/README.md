@@ -15,7 +15,20 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 />
  </p>
 
-El artefacto seleccionado es la actividad **“Reto de modelación y simulación”**. Este artefacto </br>
+El artefacto seleccionado es la actividad **“Reto de modelación y simulación”**. Este artefacto ayudo a identificar como trabajr en un desarrollo y selecionar que forma de trabajo se estaria realizando si se daria una aproximación descriptiva o ágil.</br>
+
+<p align="left">
+<img
+    src="https://www.docirs.cl/images/grafo_equivalente_logo_estructurado.jpg"
+    width="75px"
+/>
+
+**Red Semantica de Conceptos**
+<p align="center">
+<img
+    src="https://github.com/srgiola/Portafolio_IngSoftware/blob/v2.3.0/Bloque%2002/Red%20Semantica.png"
+    width="500px"
+/>
 
 <p align="left">
 <img
