@@ -10,12 +10,12 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 
 <p align="center">
 <img
-    src="https://media.istockphoto.com/vectors/agile-vs-waterfall-methodology-for-software-development-life-cycle-vector-id1336228205?k=20&m=1336228205&s=612x612&w=0&h=uwNKYNwohuCsxsHijVPMMOjUGPPntJydghI5Kscs-Eo="
+    src="https://cdn.lynda.com/course/606079/606079-636402166307474915-16x9.jpg"
     width="400px"
 />
  </p>
 
-Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Estos artefactos son los ideales para este bloque ya que unicamente teorico y los iRAT son una buena manera de conocer que tanto sabemos del tema asi como luego comparar nuestros conocimientos con nuestros compañeros en el gRAT </br>
+El artefacto selecionado de las actividades del bloque es **“Laboratorio de Control de metricas de calidad”**. Este artefacto nos permitio realizar una prueba de control de calidad, tomando en cuenta el inicio del desarrollo del producto hasta la parte de QA. Gracias a este artefacto fue que logramos ver como se valoriza cada actividad realizada y generar un laboratorio con todos los conceptos vistos hasta el momento.
 
 <p align="left">
 <img
@@ -23,7 +23,7 @@ Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Esto
     width="50px"
 />
 
-Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es que se realizo dos veces durante la misma semana, mientras que unicamente podría haber sucedido una vez.
+La actividad tubo un desarrollo gratificante, y una explicación clara por lo que no tengo nada por que mejorar.
  
  </p>
  <p align="left">
@@ -33,4 +33,4 @@ Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es q
 />
  </p>
  
-Estos conocimientos fueron necesarios para tener una claridad de como se trabaja con modelos prescriptivos y poder compara como es que la teoria la aplicaba en un anterior empleo y ver que errores tenia ya que no conocia el correcto proceso.
+Gracias a esta actividad, fui capaz de definir como medir las distintas actividades del desarrollo de software y poder observar de forma cuantificable como estas (como errores o horas realizadas para distintas actividades) afectan al producto.

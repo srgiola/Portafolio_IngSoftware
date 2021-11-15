@@ -1,4 +1,4 @@
-# Modelos Básicos de Desarrollo
+# Modelos Prescriptivos
 
 Los modelos prescriptivos son aquellos modelos de proceso mas antiguos ya que fueron los primeros en ser propuestos para ordenar el caos en el desarrollo de software incluyendo conceptos como las actividades estructurales. </br>
 

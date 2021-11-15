@@ -15,7 +15,7 @@ Para tener mayor conocimiento sobre estos temas se puede ingresar a ellos a trav
 />
  </p>
 
-Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Estos artefactos son los ideales para este bloque ya que unicamente teorico y los iRAT son una buena manera de conocer que tanto sabemos del tema asi como luego comparar nuestros conocimientos con nuestros compañeros en el gRAT </br>
+El artefacto seleccionado es la actividad **“Reto de modelación y simulación”**. Este artefacto </br>
 
 <p align="left">
 <img
@@ -23,7 +23,7 @@ Los artefactos seleccionados son las actividades **“iRAT 3 y iRAT 4”**. Esto
     width="50px"
 />
 
-Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es que se realizo dos veces durante la misma semana, mientras que unicamente podría haber sucedido una vez.
+Esta actividad creo que se encuentra bien sin necesidad de modificarse, ya que fue el primer reto donde se aplicaban conocimientos adquiridos por la teoria y previos de otros cursos.
  
  </p>
  <p align="left">
@@ -33,4 +33,4 @@ Esta actividad es ideal, lo unico que tomaria en cuenta como punto negativo es q
 />
  </p>
  
-Estos conocimientos fueron necesarios para tener una claridad de como se trabaja con modelos prescriptivos y poder compara como es que la teoria la aplicaba en un anterior empleo y ver que errores tenia ya que no conocia el correcto proceso.
+Gracias a esta actividad, me fue posible interpretar mis conocimientos sobre los modelos agiles y compararlos contra los prescriptivos para poder agregarlos en un caso.

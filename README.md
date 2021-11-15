@@ -12,7 +12,7 @@
         Carne 1044418
 </div>
 
-# Portafolio Ingeniería de Software v1.0.0
+# Portafolio Ingeniería de Software v2.1.0
 
 El siguiente Portafolio es una recopilación de distintos retos, casos, examenes o proyecto. Cada uno de los mencionados anteriormente representa a un artefacto, y para el portafolio se ha escogido el artefacto que yo Sergio Lara considero como el mas significativo por cada bloque (tema principal) visto en clase de Ingenieria de Software (IS).
 
@@ -46,8 +46,9 @@ Cada bloque se divide en una carpeta y asi mismo si es necesario contiene sub-ca
 ## Versiones:
 <pre>
     - v1.0.0 Versión Inicial
-        /v1.1.0 Se ha agregado el bloque "Modelos Básicos de Desarrollo"
+        /v1.1.0 Se ha agregado el bloque "Modelos Básicos de Desarrollo".
             /v1.1.1 Se ha corregido un error de edición en el README.md
-    - v2.0.0 Se ha restructurado la arquitectura de las carpetas y sus temas
-            /v2.0.1 Se ha corregido el texto de multiples README.md para el bloque 1
+    - v2.0.0 Se ha restructurado la arquitectura de las carpetas y sus temas.
+            /v2.0.1 Se ha corregido el texto de multiples README.md para el bloque 1.
+        /v2.1.0 Se han actualizado los bloques 02y 03 con información teorica sobre los temas de cada uno.
 </pre>
